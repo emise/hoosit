@@ -44,9 +44,9 @@ export class HomePage extends React.PureComponent { // eslint-disable-line react
     return (
       <article>
         <Helmet
-          title="Home Page"
+          title="Home"
           meta={[
-            { name: 'description', content: 'A React.js Boilerplate application homepage' },
+            { name: 'description', content: 'Find babysitters from UVA University of Virginia students' },
           ]}
         />
         <div>

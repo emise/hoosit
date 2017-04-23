@@ -6,12 +6,12 @@
 import { defineMessages } from 'react-intl';
 
 export default defineMessages({
-  home: {
-    id: 'boilerplate.components.Header.home',
-    defaultMessage: 'Home',
+  login: {
+    id: 'boilerplate.components.Header.login',
+    defaultMessage: 'Log in',
   },
-  features: {
-    id: 'boilerplate.components.Header.features',
-    defaultMessage: 'Features',
+  signup: {
+    id: 'boilerplate.components.Header.signup',
+    defaultMessage: 'Sign up',
   },
 });
